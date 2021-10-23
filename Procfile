@@ -1,4 +1,4 @@
-web: gunicorn gettingstarted.wsgi
+web: gunicorn bookin2020.wsgi
 
 web: gunicorn app:app
 
